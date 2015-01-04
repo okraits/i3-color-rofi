@@ -4,7 +4,8 @@
 
 ### Overview
 
-Fetches the current i3 wm colors and provides an options string to color rofi
+Fetches the current i3 wm colors and provides an options string to color
+[rofi](https://github.com/DaveDavenport/rofi)
 
 ### Requirements
 
@@ -14,7 +15,7 @@ i3-color-rofi has the following requirements:
 
 ### Usage
 
-Append it to your rofi command line:
+Append it to your [rofi](https://github.com/DaveDavenport/rofi) command line:
 
     rofi <your-options> $(i3-color-rofi)
 
