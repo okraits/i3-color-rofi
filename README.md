@@ -39,3 +39,8 @@ This software is released under the terms of the
 GNU General Public License v2:
 
 [http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt](http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt)
+
+### TODO
+
+* use font from i3 configuration
+* optimize colors usage
